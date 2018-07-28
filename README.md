@@ -1,4 +1,4 @@
-Support Vector Machine (SVM) Algorithm for Customer Segmentation based on US Census Data
+# Support Vector Machine (SVM) Algorithm for Customer Segmentation based on US Census Data
 Application of SVM for classification in Product Strategy and Identifying the Target Demographics
 
 SVM was applied to US Census data to segment customers based on their Income Levels.
